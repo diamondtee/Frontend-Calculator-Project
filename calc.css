@@ -1,0 +1,22 @@
+.calculator {
+    background-color: rgb(23, 96, 233);
+    height: 320px;
+    width: 300px;
+    margin: 10px;
+    border-color: black;
+    border: black 1px solid;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin-left: 20px;
+    width: 180px;
+    font-size: 20px;
+  }
+  input[type="button"] {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+  }
